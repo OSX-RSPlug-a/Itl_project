@@ -1,3 +1,15 @@
+Descrição:
+
+ Resolução do desafio.
+
+Como executar:
+
+ Abrir a pasta pelo terminal e executar o seguinte command:
+ 
+   python3 -m http.server
+
+ Em seguida abrir no browser o link: http://0.0.0.0:8000/
+
 ![Itelios](http://www.itelios.com.br/images/logo_itelios_orange@2x.png)
 
 # Itelios Frontend Challenge
