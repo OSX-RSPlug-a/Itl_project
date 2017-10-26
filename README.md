@@ -1,6 +1,9 @@
 Descrição:
 
  Resolução do desafio.
+  
+  - Tempo utilizado: 2h;
+  - Projeto (imcompleto) - obs.: faltou pegar as informações do arquivo Json e coloca-las nos cards. Somente foi feito uma amostra dos arrays e objetos no console;
 
 Como executar:
 
@@ -49,13 +52,4 @@ O objetivo do desafio é simples: Consumir uma json via xhttp e, com o resultado
 - Não utilização de bibliotecas ou frameworks
 - Fidelidade ao design proposto
 - Adaptação mobile
-
-
-## Candidato informations
-
-- Tempo utilizado: 2h;
-- Projeto (imcompleto) - obs.: faltou pegar as informacoes do Json e coloca-las nos cards. Somente foi feito uma amotra dos arrays e objetos no console.
-
-
-
 
