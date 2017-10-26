@@ -4,12 +4,12 @@
 
 USER=OSX-RSPlug-a
 
-HOST=https://github.com/OSX-RSPlug-a/ITl_proj.git
+HOST=https://github.com/OSX-RSPlug-a/Itl_project.git
 
 GIT_PATH=/home/spock/Documents/ITl_proj/
 
 REPO=${PWD##*/}
-GIT_REMOTE_URL=https://github.com/OSX-RSPlug-a/ITl_proj.git
+GIT_REMOTE_URL=https://github.com/OSX-RSPlug-a/Itl_project.git
 
 echo "-------------------------------------------"
 echo "------ Building new Git repository --------"
